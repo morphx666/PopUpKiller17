@@ -1,0 +1,336 @@
+[Root]
+Most Recent Package=PopUp Killer 1.6 beta 1
+
+
+[Package|PopUp Killer Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Projects\Visual Basic\PopUpKiller\Package
+
+[Package|PopUp Killer Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PopUp Killer Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PopUp Killer Setup|Files Found]
+
+[Package|PopUp Killer Setup|Files Released]
+
+[Package|PopUp Killer Setup|Missing Dependency Information]
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=
+
+[Package|PopUp Killer Setup|Out-of-Date Dependency Information]
+
+[Package|PopUp Killer Setup|Files Added]
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANG.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANGBANG.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BFIRE.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\lboom.wav=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\LOSE.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SBOUNCE.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTART.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTOP.WAV=
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\thunder.wav=
+C:\My Projects\Visual Basic\PopUpKiller\Help\adding.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\commproc.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\contact.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\content.htm=
+C:\My Projects\Visual Basic\PopUpKiller\Help\disclaimer.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\ex1.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\gettingstarted.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled.gif=
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled2.gif=
+C:\My Projects\Visual Basic\PopUpKiller\Help\index.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\intro.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\knownproblems.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\logo.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.htm=
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\menuoptions.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\removing.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\ss.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\thankyou.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\thisisatest.html=
+C:\My Projects\Visual Basic\PopUpKiller\Help\title.htm=
+C:\My Projects\Visual Basic\PopUpKiller\Help\tray.jpg=
+C:\My Projects\Visual Basic\PopUpKiller\Help\whatsnew.html=
+
+[Package|PopUp Killer Setup|Files Removed]
+
+[Package|PopUp Killer Setup|Files In Project]
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=Yes
+C:\WINDOWS\SYSTEM\SysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANG.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANGBANG.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BFIRE.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\lboom.wav=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\LOSE.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SBOUNCE.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTART.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTOP.WAV=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\thunder.wav=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\adding.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\commproc.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\contact.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\content.htm=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\disclaimer.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\ex1.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\gettingstarted.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled.gif=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled2.gif=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\index.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\intro.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\knownproblems.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\logo.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.htm=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\menuoptions.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\removing.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\ss.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\thankyou.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\thisisatest.html=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\title.htm=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\tray.jpg=Yes
+C:\My Projects\Visual Basic\PopUpKiller\Help\whatsnew.html=Yes
+
+[Package|PopUp Killer Setup|Configure Registry Files]
+Applicable=No
+
+[Package|PopUp Killer Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|PopUp Killer Setup|Install Locations]
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANG.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANGBANG.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BFIRE.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\lboom.wav=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\LOSE.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SBOUNCE.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTART.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTOP.WAV=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\thunder.wav=$(AppPath)\Sounds
+C:\My Projects\Visual Basic\PopUpKiller\Help\adding.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\commproc.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\contact.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\content.htm=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\disclaimer.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\ex1.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\gettingstarted.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled.gif=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled2.gif=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\index.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\intro.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\knownproblems.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\logo.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.htm=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\menuoptions.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\removing.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\ss.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\thankyou.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\thisisatest.html=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\title.htm=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\tray.jpg=$(AppPath)\Help
+C:\My Projects\Visual Basic\PopUpKiller\Help\whatsnew.html=$(AppPath)\Help
+
+[Package|PopUp Killer Setup|Configure Shared Files]
+Applicable=Yes
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANG.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BANGBANG.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\BFIRE.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\lboom.wav=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\LOSE.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SBOUNCE.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTART.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\SSTOP.WAV=No
+C:\My Projects\Visual Basic\PopUpKiller\Sounds\thunder.wav=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\adding.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\commproc.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\contact.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\content.htm=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\disclaimer.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\ex1.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\gettingstarted.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled.gif=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\icon_disabled2.gif=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\index.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\intro.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\knownproblems.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\logo.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.htm=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\menu.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\menuoptions.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\removing.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\ss.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\sync.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\thankyou.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\thisisatest.html=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\title.htm=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\tray.jpg=No
+C:\My Projects\Visual Basic\PopUpKiller\Help\whatsnew.html=No
+
+[Package|PopUp Killer Setup|Distribution]
+Type=single
+Size=
+Title=PopUp Killer
+
+[Package|PopUp Killer Setup|IconGroups]
+Group0=PopUp Killer
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PopUp Killer Setup|PopUp Killer]
+Icon1=PopUpKiller.exe
+Title1=PopUp Killer
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=index.html
+Title2=PopUp Killer Help
+StartIn2=$(AppPath)\Help
+Key2=Icon3
+
+[Package|PopUp Killer Setup|Package]
+PackageFolder=C:\My Projects\Visual Basic\PopUpKiller\Package
+ProjectFolder=C:\My Projects\Visual Basic\PopUpKiller
+ServerSideCab=
+File1=C:\My Projects\Visual Basic\PopUpKiller\Package\setup.exe
+File2=C:\My Projects\Visual Basic\PopUpKiller\Package\Setup.Lst
+File3=C:\My Projects\Visual Basic\PopUpKiller\Package\PopUpKiller.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|PopUp Killer 1.6 beta 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Projects\Visual Basic\PopUpKiller\Package (Upgrade)
+
+[Package|PopUp Killer 1.6 beta 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PopUp Killer 1.6 beta 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PopUp Killer 1.6 beta 1|Files Found]
+
+[Package|PopUp Killer 1.6 beta 1|Files Released]
+
+[Package|PopUp Killer 1.6 beta 1|Missing Dependency Information]
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=
+
+[Package|PopUp Killer 1.6 beta 1|Out-of-Date Dependency Information]
+
+[Package|PopUp Killer 1.6 beta 1|Files Added]
+
+[Package|PopUp Killer 1.6 beta 1|Files Removed]
+
+[Package|PopUp Killer 1.6 beta 1|Files In Project]
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=Yes
+C:\WINDOWS\SYSTEM\SysTray.ocx=Yes
+C:\WINDOWS\SYSTEM\MSINET.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|PopUp Killer 1.6 beta 1|Configure Registry Files]
+Applicable=No
+
+[Package|PopUp Killer 1.6 beta 1|Configure Remote Servers]
+Applicable=No
+
+[Package|PopUp Killer 1.6 beta 1|Install Locations]
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\My Projects\Visual Basic\Extras\DLL's\AR INI ManLib\ARINIMan.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SysTray.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|PopUp Killer 1.6 beta 1|Configure Shared Files]
+Applicable=Yes
+C:\My Projects\Visual Basic\PopUpKiller\PopUpKiller.exe=No
+
+[Package|PopUp Killer 1.6 beta 1|Distribution]
+Type=single
+Size=
+Title=PopUp Killer 1.6 beta 1
+
+[Package|PopUp Killer 1.6 beta 1|IconGroups]
+Group0=PopUp Killer 1.6 beta 1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PopUp Killer 1.6 beta 1|PopUp Killer 1.6 beta 1]
+Icon1=PopUpKiller.exe
+Title1=PopUp Killer 1.6 beta 1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|PopUp Killer 1.6 beta 1|Package]
+PackageFolder=C:\My Projects\Visual Basic\PopUpKiller\Package (Upgrade)
+ProjectFolder=C:\My Projects\Visual Basic\PopUpKiller
+ServerSideCab=
+File1=C:\My Projects\Visual Basic\PopUpKiller\Package (Upgrade)\setup.exe
+File2=C:\My Projects\Visual Basic\PopUpKiller\Package (Upgrade)\Setup.Lst
+File3=C:\My Projects\Visual Basic\PopUpKiller\Package (Upgrade)\PopUpKiller.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

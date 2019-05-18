@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=PopUpKiller.vbp
+Project=..\SYSTRAY\xFXSysTray.vbp
+Project=..\VerCheck\xFXVerCheck.vbp

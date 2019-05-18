@@ -1,0 +1,33 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=puk.chm
+Contents file=puckTOC.hhc
+Default Font=Tahoma,8,0
+Default Window=Main
+Default topic=intro.html
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=PopUp Killer
+
+[WINDOWS]
+Main="PopUp Killer","puckTOC.hhc",,"intro.html",,,,,,0x42520,180,0x3006,[112,88,752,513],,,,,,,0
+
+
+[FILES]
+whatsnew.html
+commproc.html
+contact.html
+content.htm
+disclaimer.html
+gettingstarted.html
+intro.html
+menuoptions.html
+removing.html
+sync.html
+thankyou.html
+thisisatest.html
+adding.html
+
+[INFOTYPES]
+

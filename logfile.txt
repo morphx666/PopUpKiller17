@@ -1,0 +1,11 @@
+Setup Factory 5.0 Installation Log
+==================================
+Date/Time: 05-Mar-01  09:12:20 PM
+
+[Execute Commands 0]
+
+[File Operations 0]
+
+Setup was aborted before completion.
+
+

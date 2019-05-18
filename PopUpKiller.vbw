@@ -1,0 +1,16 @@
+modAPI = 154, 121, 1162, 879, C
+modRegistryFunctions = 152, 129, 599, 935, C
+frmWarning = 128, 129, 1135, 894, C, 0, 0, 0, 0, C
+modSubClass = 155, 130, 784, 710, C
+frmSerialize = 339, 165, 1376, 971, , 0, 0, 0, 0, C
+modSAPI = 256, 240, 1276, 898, 
+frmProxy = 155, 130, 602, 775, C, 0, 0, 0, 0, C
+frmMain = 208, 169, 1518, 949, , 0, 0, 0, 0, C
+frmAddPopUp = 125, 130, 1126, 907, C, 0, 0, 0, 0, C
+frmSafeSmart = 154, 211, 1170, 853, C, 0, 0, 0, 0, C
+modGlobals = 122, 135, 985, 849, C
+frmOptions = 167, 173, 957, 873, C, 0, 0, 0, 0, C
+modResizehandle = 192, 112, 965, 918, C
+SmartEdge = 152, 129, 944, 935, C
+modProperDlgSizeHandling = 152, 96, 1077, 902, C
+modFixMenuFocus = 153, 129, 600, 935, C

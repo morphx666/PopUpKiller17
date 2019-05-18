@@ -1,0 +1,123 @@
+<html>
+
+<head>
+<title>Adding PopUps</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0">
+
+<table border="0" width="100%" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font color="#FFFFFF" face="Tahoma" size="2"><strong>Adding
+      PopUps</strong></font></td>
+  </tr>
+</table>
+<blockquote>
+  <p><font face="Tahoma" size="2"><script language="JavaScript"><!--
+function OpenPopUp() {
+
+	window.open(
+					'thisisatest.html',
+					'SamplePopUp',
+					'width=200,height=120,status=1,location=1'
+				);
+
+}
+// --></script></font><font face="Tahoma" size="1">In order for PopUp Killer to
+  close PopUps, you must add the PopUp's to the <b>PopUps that will be closed</b>
+  list (aka.
+  Black List).</font></p>
+  <p><strong><font face="Tahoma" size="1">Let's make this simple exercise:</font></strong>
+  <ul>
+    <li><font size="1"><font face="Tahoma">Make sure PopUp Killer is running,
+      enabled <u>and the Smart! option is disabled</u>.<br>
+      (<em>You must turn off the Smart! option for this exercise to work </em>properly)<br>
+      (If you're not connected to the Internet, make sure the Direct Connection option is enabled)</font></font></li>
+    <li><font face="Tahoma" size="1"><a href="javascript:OpenPopUp();">Click the 
+	here</a>. A sample PopUp will appear.</font></li>
+    <li><font face="Tahoma" size="1">Double click PUK's icon to open the main
+      window.</font></li>
+  </ul>
+  <font face="Tahoma" size="1"><img src="ex1.jpg" width="200" height="244" align="right">Now, you should
+        see the two windows listed in the Available PopUp's Monitor display, as
+        shown in this image.</font>
+        <p><font face="Tahoma" size="1">To add the PopUp to the black list,
+        simply identify its name &quot;Sample PopUp&quot; in the <b>Detected
+        PopUps</b> list and
+        double click it.<br>
+		PopUp Killer will add it to the Selected
+        PopUp's display and close it instantly.</font></p>
+	<table border="0" width="50%" cellpadding="2" bgcolor="#FFFFCC">
+		<tr>
+			<td width="100%"><p><font face="Tahoma" size="1"><b>NOTE:</b> If you
+				can't see the &quot;Sample PopUp&quot; label on the Detected
+        PopUps list it may be because you're using a customized version of
+				Internet Explorer.<br>
+				In this case, go to the Preferences dialog
+				(Options-&gt;Preferences...) and click on the Detection tab.<br>
+				Check the option &quot;Custom Internet Explorer Title&quot; and
+				type the text that appears on your Internet Explorer's title
+				bar, right after the &quot;-&quot;. You may try to use the
+				&quot;Default&quot; button to retrieve this text. If that
+				doesn't work, enter it manually.</font></p>
+			</td>
+		</tr>
+	</table>
+        <p><font face="Tahoma" size="1">Now, every time you click the sample 
+		above or any other link which displays the same PopUp, PUK will... kill
+        it!</font>
+</blockquote>
+<blockquote>
+  <p><strong><font face="Tahoma" size="1">Now, let's try this:</font></strong>
+  <ul>
+    <li><font face="Tahoma" size="1">Remove the PopUp from the Selected PopUp's
+      display (Click <a href="removing.html">here</a> to learn how).</font></li>
+    <li><font face="Tahoma" size="1">Enable the Smart! option.</font></li>
+    <li><font face="Tahoma" size="1">Click on the above sample again.</font></li>
+  </ul>
+  <p><font face="Tahoma" size="1">Cool! PopUp Killer used its smart code to
+  detect the presence of a PopUp and even when you never had it in the black
+  list, PUK was able to determine that this was another annoying PopUp and it
+  simply kill it!</font></p>
+  <p><font face="Tahoma" size="1">Note that the Smart! option will not always be
+  able to detect all the PopUp's. For those PopUp's that the Smart! option can't
+  detect, simply add them to the black list as shown in the exercise above.</font></p>
+  <p><font face="Tahoma" size="1">A new slider has been added to control how
+  sensitive the Smart! option should be. Click <a href="file:///C:/My%20Projects/Visual%20Basic/PopUp%20Killer/HELP/menuoptions.html">here</a>
+  for more information.</font></p>
+  <p><font face="Tahoma" size="1"><b>Types of PopUps</b></font></p>
+  <p><font face="Tahoma" size="1">In PopUp Killer there're three types of
+  PopUps:</font></p>
+  <ol>
+    <li><font face="Tahoma" size="1">The popups listed in the <b>PopUps that
+      will be closed</b> list. These popups can be enabled or disabled. For more
+      information click <a href="removing.html">here</a>.</font></li>
+    <li><font face="Tahoma" size="1">The popups listed in the <b>PopUps that
+      will be closed</b> list that use wildcards. Wildcards are used to specify
+      a set of popups with just one or two words.<br>
+      Let's say you would like to have PopUp Killer close every popup that
+      starts with the words FREE. So, all you have to do is select from the menu
+      <i>PopUp-&gt;Add... </i>and enter the word FREE followed by the *
+      character, like this: FREE*</font></li>
+    <li><font face="Tahoma" size="1">The popups listed in the <b>Popups that
+      will not be closed</b> list. These popups will not be closed by PopUp
+      Killer. Sometimes, there're popups that you want to see because offer some
+      kind of useful information. To add a popup to this list:</font>
+      <ul>
+        <li><font face="Tahoma" size="1">Simply select from the menu <i>PopUp-&gt;Add...
+          </i>type its name and select the &quot;Add to exclude list&quot;
+          option.</font></li>
+        <li><font face="Tahoma" size="1">You can also rightclick a detected
+          popup's title and select <i>PopUp-&gt;Add...</i></font></li>
+        <li><font face="Tahoma" size="1">Another way is by rightclicking a
+          popup's title from the black list and select <i>Exclude</i>.</font></li>
+      </ul>
+    </li>
+  </ol>
+</blockquote>
+
+</body>
+
+</html>

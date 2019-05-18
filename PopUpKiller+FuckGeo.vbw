@@ -1,0 +1,13 @@
+modAPI = 0, 0, 0, 0, C
+RegistryFunctions = 0, 0, 0, 0, C
+frmWarning = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modSubClass = 0, 0, 0, 0, C
+frmSerialize = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modSAPI = 0, 0, 0, 0, C
+frmProxy = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMain = 205, 261, 885, 812, , 0, 0, 0, 0, C
+frmAddPopUp = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSafeSmart = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modGlobals = 0, 0, 0, 0, C
+NetCastorsupport = 0, 0, 0, 0, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C

@@ -1,0 +1,4 @@
+Line 3: Could not create reference: '{69874D43-2FE4-11D3-B734-444553540000}#1.0#0'.
+Line 180: Class xFXVerCheck.VerCheck of control VerCheckCtrl was not a loaded control class.
+Line 187: The property name _ExtentX in VerCheckCtrl is invalid.
+Line 188: The property name _ExtentY in VerCheckCtrl is invalid.

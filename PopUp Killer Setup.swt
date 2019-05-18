@@ -1,0 +1,63 @@
+[Setup Wizard Template]
+TemplateDate=9/30/98 10:42:25 PM
+
+[Select Project and Options]
+txtProjFile=C:\Program Files\DevStudio\VB\samples\My Samples\PopUpKiller\PopUpKiller.vbp
+chkProjRebuild=0
+optBldSetup=True
+chkIncludeDEP=0
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=True
+optMultDirTarg=False
+
+[Single Directory]
+cboFloppyDrives=0
+cboFloppyDriveSize=0
+txtDirTarget=C:\WINDOWS\Desktop\puk\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\WINDOWS\SYSTEM\SYSTRAY.OCX",True,32764
+File2="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,32764
+File3="C:\WINDOWS\SYSTEM\MSINET.OCX",True,32764
+File4="C:\PROGRAM FILES\DEVSTUDIO\ACTIVEX CONTROLS\ACTIVEBAR\ACTBAR.OCX",True,32764
+File5=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\WINDOWS\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\WINDOWS\SYSTEM\SYSTRAY.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File9="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File10="C:\WINDOWS\SYSTEM\MSINET.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File11="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AXDist.exe",True,"$(WinSysPath)",,True
+File12="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Wint351.exe",True,"$(AppPath)",,False
+File13="C:\PROGRAM FILES\DEVSTUDIO\ACTIVEX CONTROLS\ACTIVEBAR\ACTBAR.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File14="C:\Program Files\DevStudio\VB\samples\My Samples\PopUpKiller\PopUpKiller.exe",True,"$(AppPath)",,False
+File15="C:\Program Files\DevStudio\TBL\win32\WIN32.TLB",True,"$(WinSysPath)",$(TLBRegister),True
